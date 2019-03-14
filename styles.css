@@ -3,7 +3,7 @@ body {
 }
 
 div {
-    border-style: solid;
+    border-style: groove;
     border-width: solid;
     border-color: brown;
     border-radius: 2px;
@@ -47,8 +47,6 @@ td {
     width: 20px;
     
 }
-
-
 
 input[type=number] {
     width: 6em;
